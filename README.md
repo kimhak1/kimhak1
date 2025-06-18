@@ -1,6 +1,7 @@
 <div align="center">
   :sparkles: 세명대학교 스마트IT학과 김학입니다. :sparkles:
-  <br /><br />
+  <br />
+  <br />
   :computer: My Tech Stack :computer:
 
   :bookmark_tabs: Study in school :bookmark_tabs:  
