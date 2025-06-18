@@ -13,6 +13,7 @@
 
 
   :star: Welcome to my github! :raised_hand: :star:
+  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
