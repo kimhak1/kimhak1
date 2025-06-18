@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  ## ✨ 세명대학교 스마트IT학과 김학입니다. ✨
+</div>
 
 <!--
 **kimhak1/kimhak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
