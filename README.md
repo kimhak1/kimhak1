@@ -1,6 +1,6 @@
 <div align="center">
   <h1>:sparkles: 세명대학교 스마트IT학과 김학입니다. :sparkles:</h1><br />
-  <h2>:computer: My Tech Stack :computer:</h2><br />
+  <h2>:computer: My Tech Stack :computer:</h2>
   :bookmark_tabs: Study in school :bookmark_tabs:<br />
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
