@@ -13,7 +13,7 @@
 
 
   :star: Welcome to my github! :raised_hand: :star:<br />
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <a href = "https://github.com/kimhak1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
   
 </div>
 
